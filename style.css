@@ -1,0 +1,163 @@
+/* Google Fonts
+font-family: 'Inter', sans-serif;
+font-family: 'Manrope', sans-serif;
+font-family: 'Poppins', sans-serif; */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+/* Header Section */
+
+header {
+    background-color: #264653;
+}
+
+.btn-1 {
+    color: white;
+    padding: 10px 24px;
+    background: #E76F51;
+    border-radius: 5px;
+}
+
+.btn-2 {
+    padding: 10px 46px;
+}
+
+.btn-3 {
+    color: #E76F51;
+    padding: 10px 24px;
+    border-color: #E76F51;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+.btn-3:hover {
+    background: #E76F51;
+    color: white;
+}
+
+.cover {
+    color: white;
+}
+
+.cover-text {
+    padding-right: 5%;
+}
+
+/* Fetured Bikes 2021 */
+
+.grayscale {
+    filter: grayscale(100%);
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+span {
+    color: #E76F51;
+}
+
+.color {
+    color: #E76F51;
+}
+
+.line {
+    border: 1px solid;
+    color: #E76F51;
+    width: 5%;
+}
+
+/* Leatest News */
+
+.card-text p {
+    color: #6C6C6C;
+    padding: 15px 0px;
+}
+
+/* Happy Clients */
+
+.clients i {
+    color: #E76F51;
+}
+
+/* Subscribe Section Start */
+
+.subscribe {
+    background-color: rgb(231, 231, 231);
+}
+
+.subscribe h3 {
+    color: rgb(129, 129, 129);
+}
+
+.subscribe input {
+    padding: 20px 20px;
+    margin: 3% 0%;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
+
+.button-3 {
+    background-color: #E76F51;
+    border: none;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Slider Section */
+
+.slider {
+    color: white;
+}
+
+.slider p {
+    font-weight: 400;
+    color: rgb(68, 68, 68);
+}
+
+/* Footer */
+
+.foot p {
+    font-weight: 400;
+    color: rgb(68, 68, 68);
+}
+
+.contact li {
+    padding: 2% 0%;
+}
+
+.contact li {
+    padding: 2% 0%;
+    text-decoration: none;
+    list-style: none;
+}
+
+.contact p i {
+    color: #E76F51;
+}
+
+.f-2 li {
+    padding: 8% 0%;
+    text-decoration: none;
+    list-style: none;
+}
+
+.rights {
+    text-align: center;
+    color: rgb(170, 170, 170);
+}
